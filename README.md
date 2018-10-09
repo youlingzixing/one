@@ -1,2 +1,2 @@
 # one
-one picture and one sentence
+one background and one sentence
