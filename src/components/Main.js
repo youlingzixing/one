@@ -16,7 +16,7 @@ class AppComponent extends React.Component {
                 'c': '游戏',
                 'd': '小说',
                 'e': '原创',
-                'f': '来自网络',
+                'f': '网络',
                 'g': '其他'
             }
         };
