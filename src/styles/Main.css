@@ -7,8 +7,12 @@
     border-radius: 10px;
     height: 200px;
     background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    transition: all .7s ease-in;
 }
-
+.content:hover{
+    box-shadow: 1px 0 1px #bbb,0 1px 1px #bbb, -1px 0 1px #bbb, 0 -1px 1px #bbb;
+    opacity: .7;
+}
 .contenta{background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);}
 .contentb{background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);}
 .contentc{background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);}
